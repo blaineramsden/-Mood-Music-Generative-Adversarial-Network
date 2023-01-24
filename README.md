@@ -8,4 +8,4 @@ Model 1 Represents a happier more upbeat song
 
 Model 2 Represents a sad song
 
-Model 3 Represents an daker song
+Model 3 Represents a darker song
