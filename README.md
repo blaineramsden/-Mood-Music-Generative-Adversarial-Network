@@ -6,6 +6,6 @@ This Gan was desgined to help to reduce the effects of depression with mood base
 
 Model 1 Represents a happier more upbeat song
 
-Model 2 Reppresents a sad song
+Model 2 Represents a sad song
 
 Model 3 Represents an daker song
